@@ -25,7 +25,7 @@ entries:
       url: https://github.com/bootc
     name: netbox
     urls:
-    - https://github.com/mujak27/netbox-chart/netbox-5.0.0.tgz
+    - https://github.com/mujak27/netbox-chart/raw/prod/netbox-5.0.0.tgz
     version: 5.0.0
   postgresql:
   - annotations:
